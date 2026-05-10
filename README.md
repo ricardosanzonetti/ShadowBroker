@@ -64,9 +64,9 @@ The project combines FastAPI services with a Next.js frontend focused on immersi
 
 * Frontend Startup
 
-![Frontend](screenshots/frontend1.PNG)
+![Frontend](screenshots/frontend 1.PNG)
 
-![Frontend Logs](screenshots/frontend2.PNG)
+![Frontend Logs](screenshots/frontend 2.PNG)
 
 ---
 
