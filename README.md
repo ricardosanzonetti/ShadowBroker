@@ -1,8 +1,8 @@
-** ShadowBroker
+## ShadowBroker
 
 OSINT global threat monitoring platform built FastAPI and Next.js
 
-* Overview
+# Overview
 
 ShadowBroker is a cyberpunk-inspired intelligence dashboard designed to visualize real-time global activity across multiple data layers including:
 
@@ -18,19 +18,19 @@ The project combines FastAPI services with a Next.js frontend focused on immersi
 
 ---
 
- ** Tech Stack
+ ## Tech Stack
 
-* Frontend
+# Frontend
 - Next.js
 - TypeScript
 - TailwindCSS
 
-* Backend
+# Backend
 - FastAPI
 - Python
 - Uvicorn
 
-* Data Sources
+# Data Sources
 - OSINT feeds
 - Aircraft telemetry
 - Maritime datasets
@@ -38,7 +38,7 @@ The project combines FastAPI services with a Next.js frontend focused on immersi
 
 ---
 
-* Features
+# Features
 
 - Real-time world map visualization
 - Aircraft and maritime monitoring
@@ -50,19 +50,19 @@ The project combines FastAPI services with a Next.js frontend focused on immersi
 
 ---
 
-* Project Structure
+# Project Structure
 
 ![Structure](screenshots/structuretree.PNG)
 
 ---
 
-* Backend Startup
+# Backend Startup
 
 ![Backend](screenshots/backend.PNG)
 
 ---
 
-* Frontend Startup
+# Frontend Startup
 
 ![Frontend](screenshots/frontend1.PNG)
 
@@ -70,21 +70,21 @@ The project combines FastAPI services with a Next.js frontend focused on immersi
 
 ---
 
-* Dashboard
+# Dashboard
 
 ![Dashboard](screenshots/dashboard.PNG)
 
 ---
 
-* Full Overview
+# Full Overview
 
 ![Overview](screenshots/overview.jpg)
 
 ---
 
-* Run Locally
+# Run Locally
 
-* Backend
+# Backend
 
 ```bash
 cd backend
@@ -92,7 +92,7 @@ source venv/bin/activate
 python3 main.py
 ```
 
-* Frontend
+# Frontend
 
 ```bash
 cd frontend
@@ -102,7 +102,7 @@ npm run dev
 
 ---
 
-** Author
+## Author
 
 Ricardo Gomez Sanzonetti
 
